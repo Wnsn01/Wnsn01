@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning to master Flutter</p>
+<p align="left">✨ Solving bugs since 2021<br>📚 I'm currently learning to master Flutter</p>
 
 ###
 
